@@ -10,9 +10,6 @@ Fecha: 08/04/2019
 <section>
         <h2>Historia de los videojuegos</h2>
         <article>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/mWWp4tIjXCk"></iframe>
-        </article>
-        <article>
             <h3>Los inicios</h3>
             <p>Durante bastante tiempo ha sido complicado señalar cual fue el primer videojuego, principalmente debido a
                 las múltiples definiciones de este que se han ido estableciendo, pero se puede considerar como primer
